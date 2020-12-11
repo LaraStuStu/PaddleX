@@ -1,10 +1,10 @@
-树莓派部署
+Raspberry Pi Deployment
 =======================================
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: 文档目录:
+   :caption: Catalogue:
 
    Raspberry.md
    python.md
